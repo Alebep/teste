@@ -12,6 +12,7 @@ namespace TesteParaOGit
         {
             Console.WriteLine("Ola, Mundo!!!!");
             Console.WriteLine("msg dois");
+            Console.WriteLine("terceiro commit");
         }
     }
 }
